@@ -19,4 +19,8 @@ System.out.println(sysHello("abdo"));
 //ich mag tagbes
 
 }
+
 ich hasse dich
+
+I liebe dich
+
