@@ -11,10 +11,9 @@ System.out.println(sysHello("abdo"));
 
 }
 
-public static String sysHello(String name){
-return "hello " + name;
-//etwas anderes
-}
+adf
+adg
+ag
 
 afffsd
 }
