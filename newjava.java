@@ -7,11 +7,14 @@ public static void main(String arges[]{
 
 System.out.println(sysHello("abdo"));
 
-//new code
+//ich mag tagbes
+
 }
 
 public static String sysHello(String name){
 return "hello " + name;
+//etwas anderes
 }
 
+afffsd
 }
